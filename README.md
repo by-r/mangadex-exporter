@@ -44,8 +44,12 @@ This tool authenticates with your MangaDex account and exports your manga librar
     Using `uv`:
 
     ```sh
-    # Install uv if not already installed
+    # Install uv if not already installed / linux / macOS
     curl -LsSf https://astral.sh/uv/install.sh | sh
+
+    # Windows
+    powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+    # Just follow the instructions
         
     # Install dependencies
     uv pip install -r requirements.txt
