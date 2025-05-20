@@ -1,8 +1,10 @@
 # MangaDex Library Exporter
 
-A Python tool to export your MangaDex reading list to CSV format. Based on a script by [Sassy-Lily](https://github.com/sassy-lily/mangadex-follows-exporter), posted on [Reddit](https://www.reddit.com/r/mangadex/comments/1kq664i/update_i_created_a_scriptprogram_to_download_your/). 
+A Python tool to export your MangaDex reading list to CSV format. 
 
-I modified it with a couple of bug fixes and few new features to suit my needs/preferences.
+Based on a script by [Sassy-Lily](https://github.com/sassy-lily/mangadex-follows-exporter), posted on [Reddit](https://www.reddit.com/r/mangadex/comments/1kq664i/update_i_created_a_scriptprogram_to_download_your/). 
+
+I modified it with a couple of compatibility fixes and few new features to suit my needs/preferences.
 
 ## Description
 
