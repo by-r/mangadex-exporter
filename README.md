@@ -44,11 +44,11 @@ This tool authenticates with your MangaDex account and exports your manga librar
     Using `uv`:
 
     ```sh
-        # Install uv if not already installed
-        curl -LsSf https://astral.sh/uv/install.sh | sh
+    # Install uv if not already installed
+    curl -LsSf https://astral.sh/uv/install.sh | sh
         
-        # Install dependencies
-        uv pip install -r requirements.txt
+    # Install dependencies
+    uv pip install -r requirements.txt
     ```
 
     Using `pip`:
@@ -56,8 +56,8 @@ This tool authenticates with your MangaDex account and exports your manga librar
     create and activate the virtual environment:
 
     ```sh
-        python -m venv .venv
-        source .venv/bin/activate
+    python -m venv .venv
+    source .venv/bin/activate
     ```
 
     ```sh
